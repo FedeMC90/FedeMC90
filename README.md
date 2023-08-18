@@ -6,13 +6,13 @@
 ### <div align="center">Soy Federico Ciociano. Un desarrollador Full Stack entrenado para resolver problemas y satisfacer las necesidades del cliente 💪</div>  
   
 
-- 🔭 Actualmente estoy trabajando, junto a un equipo en el e-commerce [CurSort](https://cursort.onrender.com/)  
+- 🔭 Actualmente estoy trabajando, junto a un equipo en una plataforma integral para facilitar los servicios en locales gastronómicos.
   
 
-- 🌱 En estos momentos estoy aprendiendo sobre autenticación y autorización con Auth0  
+- 🌱 En estos momentos estoy realizando un curso sobre TypeScript
   
 
-- 📈 Trabajé 6 años como desarrollador en C++ y 6 años como dueño de mi propio negocio. Lo cual me obligó aprender un stack de habilidades amplias y muy interesantes.   
+- 📈 Trabajé 6 años como desarrollador en C y 6 años como dueño de mi propio negocio, lo cual me obligó aprender un stack de amplias e interesantes habilidades.   
   
 
 - ⚡ "Do or do not. There is no try." - Yoda  
